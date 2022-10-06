@@ -3,7 +3,7 @@
 - 📫 Bizimlə əlaqə: **sethubpro@gmail.com**
 
 <h3 align="left">Bizimlə əlaqə:</h3>
-<p align="left">
+
 
   
   <a style="float:left" href="https://instagram.com/sethubofficial" target="_blank"><img style="float:left" text="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sethubofficial" height="30" width="40" /></a>
