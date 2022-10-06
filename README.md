@@ -1,5 +1,6 @@
 <h1 align="center">Salam! 👋, Mən SetHub</h1>
 <h3 align="center">Kod yazmağı unutmayaq ;)</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=EE33F7&background=2EFFA200&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzatalibov555&label=Profile%20views&color=0e75b6&style=flat" alt="rzatalibov555" /> </p>
 
