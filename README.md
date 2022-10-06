@@ -1,5 +1,5 @@
-<h1>SetHub</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=EE33F7&background=2EFFA200&vCenter=true&width=435&lines=%C4%B0nnovasiyan%C4%B1n+m%C3%BCk%C9%99mm%C9%99llikl%C9%99+qovu%C5%9Fdu%C4%9Fu+yer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=EE33F7&background=2EFFA200&vCenter=true&width=435&lines=SetHub+Official" alt="Typing SVG" /></a>
+<p align="left">İnnovasiyanın mükəmməlliklə qovuşduğu məkan.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzatalibov555&label=Profile%20views&color=0e75b6&style=flat" alt="rzatalibov555" /> </p>
 
