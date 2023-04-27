@@ -1,5 +1,5 @@
 
-<a href="https://www.youtube.com/channel/UCPZL6wmz8kQ_YoZUWjES3eA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=EE33F7&background=2EFFA200&vCenter=true&width=435&lines=SetHub+Official" alt="Typing SVG" /></a>
+<a href="https://www.youtube.com/channel/UCPZL6wmz8kQ_YoZUWjES3eA"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=EE33F7&background=2EFFA200&vCenter=true&width=435&lines=SetHub+Official" alt="Typing SVG" /></a>
 
 📫 **sethubpro@gmail.com**
 
